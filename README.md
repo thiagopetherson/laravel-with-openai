@@ -19,7 +19,6 @@ Desenvolvimento de uma aplicação Laravel consumindo a OpenAI através da bibli
 ## 🔧 Instalação e Inicialização do Projeto (Laravel 10)
 
 
-<br/>
 Na pasta raiz da aplicação rode no terminal:
 
 `composer install`
@@ -34,7 +33,11 @@ Rode o comando abaixo para criação das tabelas no banco:
 Por fim, rodamos o comando abaixo, para subir nossa aplicação Laravel:
 
 `php artisan serve`
-<br/>
+<br/><br/>
+
+
+![Screenshot from 2023-05-06 13-51-54](https://user-images.githubusercontent.com/44420212/236637358-670cb35b-78b8-4f54-a422-97305212fe96.png)
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
