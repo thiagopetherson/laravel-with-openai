@@ -1,3 +1,42 @@
+# Aplicação Laravel Integrando com OpenAI
+
+## 📋 Detalhes
+
+Desenvolvimento de uma aplicação Laravel consumindo a OpenAI através da biblioteca OpenAI PHP for Laravel.<br/><br/>
+
+
+## 📦 Ferramentas Utilizadas
+
+- Laravel 10
+- OpenAI PHP for Laravel<br/>
+- Bleeze<br/>
+- Inertia<br/>
+- VueJS 3 e Composition API<br/>
+- Tailwind<br/>
+- E mais algumas coisinha pontuais...<br/><br/>
+
+
+## 🔧 Instalação e Inicialização do Projeto (Laravel 10)
+
+
+<br/>
+Na pasta raiz da aplicação rode no terminal:
+
+`composer install`
+ <br/>
+
+Rode o comando abaixo para criação das tabelas no banco:
+ 
+`php artisan migrate`
+<br/>
+
+
+Por fim, rodamos o comando abaixo, para subir nossa aplicação Laravel:
+
+`php artisan serve`
+<br/>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
