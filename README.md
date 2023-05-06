@@ -38,9 +38,8 @@ Por fim, rodamos o comando abaixo, para subir nossa aplicação Laravel:
 
 ![Screenshot from 2023-05-06 13-51-54](https://user-images.githubusercontent.com/44420212/236637358-670cb35b-78b8-4f54-a422-97305212fe96.png)
 
-<br/>
 
-## Feito com Base na Playlist "Code With Tony"
+## Desenvolvido com Base na Playlist "Code With Tony"
 
 Link: https://www.youtube.com/@codewithtonyofficial
 
